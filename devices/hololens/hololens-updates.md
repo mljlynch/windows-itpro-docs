@@ -28,7 +28,7 @@ To configure how and when updates are applied, use the following policies:
 
 In Microsoft Intune, you can use **Automatic Update Behavior** to change this policy. (See [Manage software updates in Microsoft Intune](https://docs.microsoft.com/intune/windows-update-for-business-configure))
 
-For information on how to defer/pause updates, (see [Deploy updates using Windows Update for Business](https://docs.microsoft.com/en-us/windows/deployment/update/waas-manage-updates-wufb))
+For information on how to defer/pause updates, see [Deploy updates using Windows Update for Business](https://docs.microsoft.com/en-us/windows/deployment/update/waas-manage-updates-wufb)
 
 # Manage Updates to HoloLens (Windows Holographic for Business)
 
