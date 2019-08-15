@@ -7,10 +7,10 @@ author: jdeckerms
 ms.author: jdecker
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 04/30/2018
+ms.date: 08/15/2019
 ---
 
-# Manage updates to HoloLens 2
+# Manage Updates to HoloLens 2
 
 >**Looking for how to get the latest update? See [Update HoloLens](https://support.microsoft.com/help/12643/hololens-update-hololens).**
 
